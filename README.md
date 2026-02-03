@@ -37,4 +37,5 @@ The website includes multiple pages such as **Home** and **Contact Us**, integra
 ---
 
 ## 🌐 Live Website
-https://vishalkcse2.github.io
+https://vishalkcse.github.io/vishalkcse2.github.io/
+
