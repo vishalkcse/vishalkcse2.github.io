@@ -34,7 +34,6 @@ form {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    margin-bottom: 20px;
 }
 
 input, textarea {
@@ -47,7 +46,6 @@ button {
     background: #2c3e50;
     color: white;
     border: none;
-    cursor: pointer;
 }
 
 footer {
@@ -57,10 +55,3 @@ footer {
     margin-top: 20px;
 }
 
-/* RESPONSIVE */
-@media (max-width: 600px) {
-    nav {
-        flex-direction: column;
-        align-items: flex-start;
-    }
-}
