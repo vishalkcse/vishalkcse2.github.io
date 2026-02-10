@@ -9,21 +9,20 @@
 
 ## 📌 Project Description
 This project is a simple and responsive personal website template created as part of Assignment No. 2.  
-The website includes multiple pages such as **Home** and **Contact Us**, integrates **Google Maps**, and supports **email notification** on form submission.
+The website includes multiple pages such as **Home** and **Contact Us**, integrates **Google Maps**, and supports basic contact functionality.
 
 ---
 
 ## 📄 Pages Included
 - **Home Page** – Personal information and introduction  
-- **Contact Us Page** – Contact form with email-based notification and Google Map  
+- **Contact Us Page** – Contact form and Google Map  
 
 ---
 
 ## ✨ Features
 - Responsive design (works on mobile, tablet, and desktop)
 - Google Map embedded on Contact Us page
-- Email notification using `mailto:` on form submission
-- Clean and simple UI
+- Clean and simple user interface
 - Hosted using **GitHub Pages**
 
 ---
@@ -31,11 +30,9 @@ The website includes multiple pages such as **Home** and **Contact Us**, integra
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript  
 - Google Maps Embed  
 
 ---
 
 ## 🌐 Live Website
-https://vishalkcse.github.io/vishalkcse2.github.io/
-
+https://vishalkcse2.github.io/
